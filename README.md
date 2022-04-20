@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Wake Up to Reality!
-### get a Cup of coffe and type some Code.
+### Get a Cup of coffe and type some Code.
 
 <!--
 **STREIN-11/STREIN-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
