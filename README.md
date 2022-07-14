@@ -1,4 +1,4 @@
-### Hi there 👋
+### echo "Hi there 👋"
 
 ### Wake Up to Reality!
 ### Get a Cup of coffe and type some Code.
