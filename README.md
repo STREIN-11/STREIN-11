@@ -1,4 +1,4 @@
-### echo "Hi there 👋"
+### echo "Hi there 👋 I'm SUBHAMAY GANGULY"
 
 ### Wake Up to Reality!
 ### Get a Cup of coffe and type some Code.
