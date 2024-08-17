@@ -2,7 +2,7 @@
 
 ### Wake Up to Reality!
 ### Get a Cup of coffe and type some Code.
-### About
+## About
 
 <img src="https://github-readme-stats.vercel.app/api?username=STREIN-11&theme=midnight-purple&show_icons=true"> 
 <div>
