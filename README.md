@@ -3,6 +3,7 @@
 ### Wake Up to Reality!
 ### Get a Cup of coffe and type some Code.
 ## About
+Full Stack & Back End Developer | Expert in C, C++, Javascript, Node.js, Express.js,PHP, Python, & SQL Specializing in Building Scalable and Robust Web Applications
 
 <img src="https://github-readme-stats.vercel.app/api?username=STREIN-11&theme=midnight-purple&show_icons=true"> 
 <div>
