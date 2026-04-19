@@ -19,17 +19,9 @@ Full Stack & Back End Developer | Expert in C, C++, JavaScript, Node.js, Express
 
 ## Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/subhamay-ganguly-526972248/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/17378812/strein" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/strein011/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhamay%20Ganguly-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhamay-ganguly-526972248/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-STREIN-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17378812/strein)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-STREIN-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/strein011/)
 
 ## Languages & Tools
 
