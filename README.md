@@ -6,7 +6,7 @@
 Full Stack & Back End Developer | Expert in C, C++, JavaScript, Node.js, Express.js, PHP, Python, and SQL, specializing in building scalable and robust web applications.
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=STREIN-11&show_icons=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=STREIN-11&show_icons=true&theme=dark" />
 </p>
 
 [![Subhamay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=STREIN-11&theme=dracula)](https://github.com/STREIN-11/github-readme-activity-graph)
